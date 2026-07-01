@@ -173,11 +173,11 @@ Features
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pazzo2005&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pazzo2005&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=pazzo2005)
 
 ---
 
