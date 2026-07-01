@@ -164,9 +164,11 @@ Features
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 🌐 Portfolio: https://YOUR_PORTFOLIO
-- 💻 LeetCode: https://leetcode.com/YOUR_USERNAME
+- 💼 LinkedIn: https://linkedin.com/in/linkedin.com/in/aditya-n-b-6b3311290
+
+
+- 
+- 💻 LeetCode: https://leetcode.com/ADITYANB2005
 - 📧 Email: nbaditya32@gmail.com
 
 ---
